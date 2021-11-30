@@ -1,0 +1,10 @@
+﻿Print parts list:
+tibia-f x 2
+tibia-b x 2
+coxa-f x 2
+coxa-b x 2
+femur x 4 
+hinge x 8
+body-u x 1
+body-m x 1
+body-d x 1
